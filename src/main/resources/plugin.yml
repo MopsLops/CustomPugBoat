@@ -1,0 +1,6 @@
+name: CustomPugBoat
+version: '1.0-SNAPSHOT'
+main: ru.mopsland.customPugBoat.CustomPugBoat
+api-version: '1.21'
+author: Mops_Lops
+description: Отключает крафт лодок.
